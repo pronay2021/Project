@@ -69,12 +69,16 @@ Create a `.env` file in the project root:
 OPENAI_API_KEY=your_openai_key_here
 ```
 
-### 4. Run the App
+### 4. Run the App 
+
+```bash
+python bot.py
+```
+### 5. Run the App with API
 
 ```bash
 uvicorn main:app --reload
 ```
-
 ---
 
 
