@@ -1,6 +1,7 @@
 # 🎙️ Voice-Based Course Assistant API
 
-This project is a **FastAPI-powered AI Voice Assistant** designed to help users inquire about available courses via voice. It uses **OpenAI Whisper** for speech-to-text, **GPT-4** for intelligent responses, and **gTTS** for text-to-speech replies. It also supports contextual memory and semantic search over a course dataset using **FAISS** and **LangChain**.
+This project is a voice calling agent that accepts user input as audio and responds with both audio and text. It uses OpenAI's Whisper model for speech-to-text transcription, GPT-4 as the large language model (LLM) to generate intelligent responses, and Google's gTTS for converting the text responses back into speech. The system leverages FAISS for efficient semantic search within the course data and uses LangChain as the framework to manage conversational retrieval and memory, enabling a seamless voice-based AI conversational experience.
+
 
 ---
 
