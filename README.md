@@ -32,7 +32,7 @@ This project is a voice calling agent that accepts user input as audio and respo
 
 ---
 
-## 🧪 Example Workflow
+## 🧪 Backend API
 
 1. `POST /start-call` – Initializes the session and clears previous memory.
 2. `POST /respond` – Upload a `.wav` or `.mp3` audio file.
