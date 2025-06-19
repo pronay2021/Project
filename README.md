@@ -12,7 +12,7 @@ This project is a voice calling agent that accepts user input as audio and respo
 - 🧠 **Contextual Memory**: Maintains conversation history during the session.
 - 🔍 **Semantic Search**: Retrieves course info using FAISS + Sentence Transformers.
 - 🔊 **Voice Response**: Converts text replies to downloadable `.mp3` files.
-- 🌐 **REST APIs**:
+- 🌐 **FAST APIs**:
   - `POST /start-call` – Start/reset the conversation
   - `GET /conversation` – View conversation history
   - `POST /respond` – Upload an audio file and receive transcript, AI response and voice reply
