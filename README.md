@@ -14,7 +14,7 @@ This project is a **FastAPI-powered AI Voice Assistant** designed to help users 
 - 🌐 **REST APIs**:
   - `POST /start-call` – Start/reset the conversation
   - `GET /conversation` – View conversation history
-  - `POST /respond` – Upload an audio file and receive transcript, AI response, and voice reply
+  - `POST /respond` – Upload an audio file and receive transcript, AI response and voice reply
 
 ---
 
