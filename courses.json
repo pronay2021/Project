@@ -1,0 +1,144 @@
+{
+  "courses": [
+    {
+    "course_name": "Python Development",
+    "course_description": "Learn the fundamentals of Python programming including data types, control structures, functions, OOP, and modules. This course is perfect for beginners who want to get started with backend development or automation.",
+    "course_learning": [
+      "Python syntax and semantics",
+      "Object-oriented programming",
+      "File handling and error management",
+      "Working with libraries and packages",
+      "Creating CLI tools and scripts"
+    ],
+    "course_duration": "3 months",
+    "course_fee": "6500 Tk",
+    "discount_fee": "5500 Tk"
+  },
+  {
+    "course_name": "AI Development",
+    "course_description": "Explore the core concepts of artificial intelligence including machine learning, neural networks, deep learning, and natural language processing.",
+    "course_learning": [
+      "Supervised and unsupervised learning",
+      "Neural networks and deep learning",
+      "Model evaluation and tuning",
+      "NLP basics and text preprocessing",
+      "AI project deployment"
+    ],
+    "course_duration": "4 months",
+    "course_fee": "8000 Tk",
+    "discount_fee": "6500 Tk"
+  },
+  {
+    "course_name": "Flutter Development",
+    "course_description": "Master cross-platform mobile app development using Flutter and Dart. Learn to build beautiful and responsive apps for Android and iOS.",
+    "course_learning": [
+      "Dart language fundamentals",
+      "Flutter widget tree",
+      "State management",
+      "Firebase integration",
+      "Publishing apps to Play Store and App Store"
+    ],
+    "course_duration": "3 months",
+    "course_fee": "6000 Tk",
+    "discount_fee": "4000 Tk"
+  },
+  {
+    "course_name": "Full Stack Development",
+    "course_description": "Become a proficient full stack developer with skills in frontend, backend, databases, and deployment using modern technologies.",
+    "course_learning": [
+      "HTML, CSS, JavaScript",
+      "React.js for frontend",
+      "Node.js and Express.js for backend",
+      "MongoDB for databases",
+      "CI/CD and deployment on cloud"
+    ],
+    "course_duration": "6 months",
+    "course_fee": "10000 Tk",
+    "discount_fee": "7500 Tk"
+  },
+  {
+    "course_name": "React Development",
+    "course_description": "Learn how to build modern and dynamic web applications using React.js and its ecosystem.",
+    "course_learning": [
+      "JSX and component lifecycle",
+      "React hooks and context API",
+      "React Router",
+      "API integration",
+      "Performance optimization"
+    ],
+    "course_duration": "2.5 months",
+    "course_fee": "4000 Tk",
+    "discount_fee": "2500 Tk"
+  },
+  {
+    "course_name": "Data Science",
+    "course_description": "Gain in-demand skills in data analysis, visualization, and modeling using Python, Pandas, and scikit-learn.",
+    "course_learning": [
+      "Data preprocessing and exploration",
+      "Data visualization with Matplotlib and Seaborn",
+      "Statistics and probability",
+      "Machine learning models",
+      "Model evaluation and deployment"
+    ],
+    "course_duration": "4 months",
+    "course_fee": "7000 Tk",
+    "discount_fee": "5500 Tk"
+  },
+  {
+    "course_name": "Django Development",
+    "course_description": "Learn web development using Django, a powerful Python web framework ideal for rapid development.",
+    "course_learning": [
+      "Django architecture and MVC pattern",
+      "Models, views, templates",
+      "Admin interface and authentication",
+      "REST API with Django REST Framework",
+      "Deployment on cloud platforms"
+    ],
+    "course_duration": "3 months",
+    "course_fee": "7000 Tk",
+    "discount_fee": "5000 Tk"
+  },
+  {
+    "course_name": "UI/UX Design Development",
+    "course_description": "Understand the principles of user interface and user experience design to build intuitive digital products.",
+    "course_learning": [
+      "Design principles and layout",
+      "Wireframing and prototyping",
+      "Tools like Figma and Adobe XD",
+      "User research and testing",
+      "Responsive design and accessibility"
+    ],
+    "course_duration": "2 months",
+    "course_fee": "3000 Tk",
+    "discount_fee": "2500 Tk"
+  },
+  {
+    "course_name": "Wordpress Development",
+    "course_description": "Learn how to create and manage websites using WordPress, including custom themes and plugins.",
+    "course_learning": [
+      "Installing and setting up WordPress",
+      "Theme customization and development",
+      "Plugin development",
+      "SEO optimization",
+      "E-commerce with WooCommerce"
+    ],
+    "course_duration": "2.5 months",
+    "course_fee": "3000 Tk",
+    "discount_fee": "2750 Tk"
+  },
+  {
+    "course_name": "DevOps",
+    "course_description": "Gain expertise in DevOps tools and practices, including CI/CD, containerization, and cloud deployments.",
+    "course_learning": [
+      "Version control with Git",
+      "CI/CD pipelines with Jenkins/GitHub Actions",
+      "Containerization with Docker",
+      "Kubernetes basics",
+      "Monitoring and logging"
+    ],
+    "course_duration": "3.5 months",
+    "course_fee": "8500 Tk",
+    "discount_fee": "6000 Tk"
+  }
+  ]
+}
