@@ -52,7 +52,7 @@ This project is a voice calling agent that accepts user input as audio and respo
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+venv\Scripts\activate 
 ```
 
 ### 2. Install Dependencies
