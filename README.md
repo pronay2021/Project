@@ -45,27 +45,21 @@ This project is a **FastAPI-powered AI Voice Assistant** designed to help users 
 
 ## 📦 Setup Instructions
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/voice-course-assistant.git
-cd voice-course-assistant
-```
-
-### 2. Create a Virtual Environment
+### 1. Create a Virtual Environment
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
-### 3. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Add Your OpenAI API Key
+### 3. Add Your OpenAI API Key
 
 Create a `.env` file in the project root:
 
@@ -73,7 +67,7 @@ Create a `.env` file in the project root:
 OPENAI_API_KEY=your_openai_key_here
 ```
 
-### 5. Run the App
+### 4. Run the App
 
 ```bash
 uvicorn main:app --reload
