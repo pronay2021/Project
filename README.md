@@ -22,10 +22,11 @@ This project is a **FastAPI-powered AI Voice Assistant** designed to help users 
 
 ```
 .
-├── main.py               # FastAPI backend
-├── courses.json          # Course data used for semantic search
-├── .env                  # Stores your OpenAI API key
-├── requirements.txt      # Python dependencies
+├── main.py               
+├── courses.json          
+├── .env                  
+├── requirements.txt
+├── bot.py        
 ```
 
 ---
